@@ -159,3 +159,13 @@ REMEMBER: After every memory reset, I begin completely fresh. The Memory Bank is
 
 # Planning
 When asked to enter "Planner Mode" or using the /plan command, deeply reflect upon the changes being asked and analyze existing code to map the full scope of changes needed. Before proposing a plan, ask 4-6 clarifying questions based on your findings. Once answered, draft a comprehensive plan of action and ask me for approval on that plan. Once approved, implement all steps in that plan. After completing each phase/step, mention what was just completed and what the next steps are + phases remaining after these steps
+
+# Nowy wzorzec projektowy (2025-06)
+
+- Panel startowy (webowy, React) jako narzędzie onboardingowe dla BMAD-METHOD.
+- Frontend-only: cała logika generowania projektu i eksportu ZIP po stronie klienta.
+- Integracja z plikami agentów i szablonami Markdown.
+- Responsywny, minimalistyczny UI (mobile-first).
+- Brak backendu, instrukcja do ręcznej inicjalizacji git.
+- Memory bank jako centralny punkt dokumentacji i kontekstu projektowego.
+- Aktualizacja dokumentacji po każdej większej zmianie architektury lub funkcjonalności.
