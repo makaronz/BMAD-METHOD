@@ -1,4 +1,12 @@
-# Create AI Frontend Prompt Task
+# Create AI Frontend Prompt
+
+## Cel
+Stwórz prompt dla AI generującego kod frontendu na podstawie wymagań projektowych.
+
+## Kroki
+1. Zbierz wymagania funkcjonalne i wizualne.
+2. Określ kluczowe komponenty i interakcje.
+3. Sformułuj jasny prompt dla AI (np. ChatGPT, Copilot).
 
 ## Purpose
 

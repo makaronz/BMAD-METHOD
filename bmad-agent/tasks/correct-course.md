@@ -1,4 +1,12 @@
-# Correct Course Task
+# Correct Course
+
+## Cel
+Skoryguj kierunek prac projektowych na podstawie nowych informacji lub zmieniających się wymagań.
+
+## Kroki
+1. Przeanalizuj aktualny stan projektu.
+2. Zidentyfikuj odchylenia od planu.
+3. Zaproponuj działania korygujące.
 
 ## Purpose
 

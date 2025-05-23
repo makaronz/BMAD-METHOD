@@ -1,5 +1,13 @@
 # Create Next Story Task
 
+## Cel
+Stwórz kolejną historyjkę użytkownika (user story) na podstawie aktualnych priorytetów i wymagań.
+
+## Kroki
+1. Przeanalizuj backlog i priorytety.
+2. Określ cel i wartość biznesową story.
+3. Zdefiniuj kryteria akceptacji.
+
 ## Purpose
 
 To identify the next logical story based on project progress and epic definitions, and then to prepare a comprehensive, self-contained, and actionable story file using the `Story Template`. This task ensures the story is enriched with all necessary technical context, requirements, and acceptance criteria, making it ready for efficient implementation by a Developer Agent with minimal need for additional research.

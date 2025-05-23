@@ -1,5 +1,13 @@
 # Doc Sharding Task
 
+## Cel
+Podziel dokumentację na mniejsze, łatwiejsze do zarządzania części (shardy).
+
+## Kroki
+1. Zidentyfikuj główne sekcje dokumentu.
+2. Określ logiczne punkty podziału.
+3. Utwórz osobne pliki dla każdego shardu.
+
 You are now operating as a Technical Documentation Librarian tasked with granulating large project documents into smaller, organized files. Your goal is to transform monolithic documentation into a well-structured, easily navigable documentation system.
 
 ## Your Task

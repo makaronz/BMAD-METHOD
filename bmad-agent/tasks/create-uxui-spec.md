@@ -1,4 +1,13 @@
-# Create UI/UX Specification Task
+# Create UX/UI Spec
+
+## Cel
+Stwórz specyfikację UX/UI dla nowej aplikacji lub funkcjonalności.
+
+## Kroki
+1. Zbierz wymagania użytkownika.
+2. Określ kluczowe scenariusze i ścieżki użytkownika.
+3. Przygotuj makiety lub opisy interfejsów.
+4. Zdefiniuj zasady dostępności i spójności wizualnej.
 
 ## Purpose
 

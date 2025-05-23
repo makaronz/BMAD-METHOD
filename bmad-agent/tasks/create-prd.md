@@ -1,3 +1,13 @@
+# Create PRD
+
+## Cel
+Stwórz dokument Product Requirements Document (PRD) dla nowego projektu.
+
+## Kroki
+1. Zbierz wymagania biznesowe.
+2. Określ kluczowe funkcjonalności.
+3. Zdefiniuj kryteria sukcesu.
+
 # PRD Generate Task
 
 ## Purpose
