@@ -1,3 +1,10 @@
+# bMADwebStarter
+
+## Language
+
+- default: en
+- available: [en, pl]
+
 # Configuration for IDE Agents
 
 ## Data Resolution
